@@ -1,0 +1,13 @@
+body {
+    background-color: #111;
+}
+body h1 {
+    color: aliceblue;
+    font-style: oblique;
+}
+body ol {
+    color: aliceblue;
+    font-style: oblique;
+    font-size: large;
+    font-variant: small-caps;
+}

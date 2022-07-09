@@ -1,0 +1,17 @@
+body {
+    background-color: #111;
+}
+
+body h1 {
+    margin-bottom: 40px;
+    color: aliceblue;
+    font-style: oblique;
+}
+body table {
+    color: #FFF;
+    font-style: oblique;
+}
+.table, th, td {
+    height: 30px;
+    border: 1px solid rgb(92, 91, 91);
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+
+body {
+    background-color: #111;
+}
+
+.linhas--text1 {
+    color: #FFF;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+
+.btn-link {
+  margin-top: 50px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  color: #111;
+  background-image: -webkit-linear-gradient(45deg, #070707 50%, #111 50%);
+  background-image: linear-gradient(45deg, #000000 50%, #111 50%);
+  background-position: 100%;
+  background-size: 400%;
+  -webkit-transition: background 300ms ease-in-out;
+  transition: background 300ms ease-in-out;
+  color: #FFF;
+}
+.btn-link:hover {
+    background-position: 0;
+}
